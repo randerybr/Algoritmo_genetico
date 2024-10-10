@@ -12,6 +12,7 @@ pip freeze > requirements.txt
 # Execução do projeto:
 
 1- O arquivo "Dados Plantas.xlsx" deve estar no mesmo diretório do arquivo principal.
-2 - Rodar o comando para executar o projeto: python MelhorCaminhoIrrigacao.py
+2 - Rodar o comando para executar o projeto: python MelhorCaminhoIrrigacao.py.
+3 - Após a execução do projeto este código irá gerar uma imagem com o resultado.
 
 
